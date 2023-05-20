@@ -193,5 +193,3 @@ I would like to thank [Microverse](https://www.microverse.org/) for giving me th
 
 This project is [MIT](./LICENSE) licensed.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-# hello-react-frontend
