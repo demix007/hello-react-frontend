@@ -1,9 +1,6 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <img src="./src/MHNOOR-LOGO.png" alt="logo" width="140"  height="auto" />
-  <br/>
-  <br>
 
   <h3><b>hello-react-front-end</b></h3>
 
@@ -36,7 +33,7 @@
 
 # 📖 hello-react-front-end <a name="about-project"></a>
 
-**hello-react-front-end** is a web application that displays random greetings from rails api. Run the rails server first before running the React app. The rails server is available [here](https://github.com/MohamedHNoor/Hello-world-backend.git).Run the react app with `localhost:3001`
+**hello-react-front-end** is a web application that displays random greetings from rails api. Run the rails server first before running the React app. The rails server is available [here](https://github.com/demix007/hello-rails-backend).Run the react app with `localhost:3001`
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -91,7 +88,7 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-- Rails API Repo [here](https://github.com/MohamedHNoor/Hello-world-backend.git)
+- Rails API Repo [here](https://github.com/demix007/hello-rails-backend)
 
 ```sh
   npm install
@@ -105,7 +102,7 @@ Example commands:
 
 ```sh
   cd your-folder
-  git clone https://github.com/MohamedHNoor/hello-react-front-end.git
+  git clone https://github.com/demix007/hello-react-frontend.git
 ```
 
 ### Install
@@ -145,11 +142,12 @@ Example command:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Mohamed Hassan Noor**
+👤 **Ayodeji Abidemi**
 
-- GitHub: [@MohamedHNoor](https://github.com/MohamedHNoor)
-- Twitter: [@MohamedHNoor](https://twitter.com/MohamedHNoor)
-- LinkedIn: [@MohamedHNoor](https://www.linkedin.com/in/mohamedhnoor/)
+- GitHub: [![demix007](https://img.shields.io/badge/-demix007-white?logo=GitHub&logoColor=181717&style=plastic)](https://github.com/demix007)
+- Twitter: [![dat_dope_demix](https://img.shields.io/badge/-dat_dope_demix-blue?logo=Twitter&logoColor=skyBlue&style=plastic)](https://twitter.com/dat_dope_demix)
+- LinkedIn: [![ayodeji-abidemi](https://img.shields.io/badge/-AyodejiAbidemi-white?logo=LinkedIn&logoColor=181717&style=plastic)](https://linkedin.com/in/ayodeji-abidemi)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -157,9 +155,9 @@ Example command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
+- [x] **Add Header**
 - [x] **Add more greetings**
 - [x] **Add styles**
-- [x] **Add Header**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -169,7 +167,7 @@ Example command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/MohamedHNoor/hello-react-front-end/issues).
+Feel free to check the [issues page](https://github.com/demix007/hello-react-frontend/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
